@@ -1,0 +1,15 @@
+{
+  "name": "videocucchill",
+  "version": "1.0.0",
+  "description": "API Random Video Chill by Duy Bao",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Duy Bao",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
