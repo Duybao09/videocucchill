@@ -14,9 +14,11 @@ app.use(express.json());
 ========================= */
 
 const videoList = [
-    "https://example.com/chill1.mp4",
-    "https://example.com/chill2.mp4",
-    "https://example.com/chill3.mp4"
+    "https://image2url.com/r2/default/videos/1772112398939-158f2992-77c4-4325-bba0-d61f50885c5e.mp4",
+    "https://image2url.com/r2/default/videos/1772112444544-fa82b7a5-0687-46bc-96d6-426b5f799358.mp4",
+    "https://image2url.com/r2/default/videos/1772112476115-4adc1873-8102-4f2f-b277-96a92e5cf6ad.mp4",
+    "https://image2url.com/r2/default/videos/1772112354000-7db06e1c-2bed-420f-ac20-70acafb498fd.mp4",
+    "https://image2url.com/r2/default/videos/1772112307594-ec64c16c-7fdf-45ff-819a-0d5385d2abe2.mp4"
 ];
 
 /* =========================
