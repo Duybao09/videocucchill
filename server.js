@@ -15,9 +15,9 @@ const videoList = [
     "https://image2url.com/r2/default/videos/1772112476115-4adc1873-8102-4f2f-b277-96a92e5cf6ad.mp4",
     "https://image2url.com/r2/default/videos/1772112354000-7db06e1c-2bed-420f-ac20-70acafb498fd.mp4",
     "https://image2url.com/r2/default/videos/1772112307594-ec64c16c-7fdf-45ff-819a-0d5385d2abe2.mp4",
-    “https://image2url.com/r2/default/videos/1772158031146-66803120-331d-42c3-a32d-833bd64e051a.mp4”,
-    “https://image2url.com/r2/default/videos/1772158064245-d1684c30-fa78-41cf-aed5-81416aea401f.mp4”,
-    “https://image2url.com/r2/default/videos/1772158089052-2391f896-d5c8-4549-baa2-7480f29837f5.mp4”
+    "https://image2url.com/r2/default/videos/1772158031146-66803120-331d-42c3-a32d-833bd64e051a.mp4",
+    "https://image2url.com/r2/default/videos/1772158064245-d1684c30-fa78-41cf-aed5-81416aea401f.mp4",
+    "https://image2url.com/r2/default/videos/1772158089052-2391f896-d5c8-4549-baa2-7480f29837f5.mp4"
 ];
 
 /* =========================
@@ -25,7 +25,7 @@ const videoList = [
 ========================= */
 
 app.get("/", (req, res) => {
-    res.send("🔥 API Random Video Chill - By Duy Bảo 🔥");
+    res.send("API Random Video Chill - By Duy Bảo");
 });
 
 /* =========================
